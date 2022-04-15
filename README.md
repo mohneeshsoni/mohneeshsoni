@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mohneesh 
 - 👀 I’m interested in programming, coding challenges, data structures
-- 🌱 I’m currently learning Java Script basics
-- 💞️ I’m looking to collaborate on Any Open Source platform
+- 🌱 I’m currently working as Technical architect at Appveen
 - 📫 How to reach me : Github inbox/ or email me at mohneesh.soni@gmail.com
 
 <!---
